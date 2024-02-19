@@ -19,14 +19,17 @@ After installation, you can run the program by executing the command `node index
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+ou can choose any license from the provided options (MIT, Apache, GPL).For example, you can choose "MIT" as the license for this sample README. This project is licensed under the MIT license.
 
-This project is licensed under the MIT license.
 
 ## Contributing
-You can choose any license from the provided options (MIT, Apache, GPL).For example, you can choose "MIT" as the license for this sample README.Furthermore, Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request for review.
+Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## Tests
 To test the functionality of this project, you can run the automated tests by executing the command `npm test` in your terminal
 
 ## Questions
-For questions about the project, please contact [You can use your GitHub username or any username you prefer. For example, "place_holder_username123".](https://github.com/You can use your GitHub username or any username you prefer. For example, "place_holder_username123".) via email at You can use any email address you prefer. For example, "sampleemail@example.com"..
+For questions about the project you can provide your contact details such as:
+
+~ GitHub username 
+~ Email address

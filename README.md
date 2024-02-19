@@ -23,7 +23,7 @@ After installation, execute the command `node index.js` in your terminal. Follow
 This project is licensed under the MIT license.
 
 ## Contributing
-Contributions to this project are welcome! Please tyake a look at the repository, make your changes, and submit a pull request for review.
+Contributions to this project are welcome! Please tyake a look at the repository, make your changes, and submit a pull request.
 
 ## Tests
 To test the functionality of this project, you can run the automated tests by executing the command `npm test` in your terminal.
