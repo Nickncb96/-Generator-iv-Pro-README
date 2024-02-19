@@ -2,7 +2,7 @@
 // Import: node.js modules and exteral packages 
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./starter/utils/generateMarkdown");
 
 // Questions array for user input
 const questions = [
