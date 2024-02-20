@@ -12,7 +12,7 @@ This project is a command-line application that dynamically generates a professi
 6. [Questions](#questions)
 
 ## Installation
-To install this project, clone the repository from GitHub and run `npm install` to install the required dependencies.
+To install this project, clone the repository from GitHub and run `npm install` to install the required dependencies. Repo URL: 
 
 ## Usage
 After installation, execute the command `node index.js` in your terminal. Follow the prompts to provide information about your project, and the README.md file will be generated accordingly.
