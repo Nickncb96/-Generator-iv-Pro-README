@@ -31,3 +31,5 @@ To test the functionality of this project, you can run the automated tests by ex
 ## Questions
 For questions about the project, please contact [Nicknc96](https://github.com/Nicknc96) via email at data@email.email..
 
+~ Walkthrough video: [Alt text](</starter/media/walkthrough-vid.mov>)
+~ Screenshot: [Alt text](</starter/media/readme_generator_screentshot.png>)
